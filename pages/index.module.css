@@ -1,0 +1,17 @@
+.div1 {
+    padding: 2rem;
+    line-height: 3rem;
+    text-align: right;
+    /* border: 0.5px dotted blue; */
+    margin-top: 20px;
+}
+
+.title {
+    text-align: center;
+    padding: 1rem;
+    /* border: 2px solid #ccc; */
+    font-size: 23px;
+    background-color: #00A170;
+    color: white;
+}
+
