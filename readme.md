@@ -42,4 +42,4 @@ go to ethereum folder and do the instrauction
 
 **Note to deploy to main network:**
 
-Thttps://www.geeksforgeeks.org/deploying-smart-contract-on-test-main-network-using-truffle/
+https://www.geeksforgeeks.org/deploying-smart-contract-on-test-main-network-using-truffle/
